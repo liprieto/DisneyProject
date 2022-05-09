@@ -1,0 +1,24 @@
+package com.disneyproject.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import com.disneyproject.entity.Peliculas;
+
+@Controller
+public class CreateController {
+	
+	@GetMapping("/crear-pelicula")
+	public String createPage(Model model) {
+		//constructorVacio
+		model.addAttribute("pelicula", new Peliculas());
+		return "users/create";
+	}
+	
+	@PostMapping("/guardar-pelicula")
+	public String guardarPelicula() {
+		return "redirect:users/create";
+	}
+}

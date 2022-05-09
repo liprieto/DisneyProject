@@ -1,0 +1,5 @@
+package com.apidocker.repository;
+
+public interface UserRepository {
+
+}

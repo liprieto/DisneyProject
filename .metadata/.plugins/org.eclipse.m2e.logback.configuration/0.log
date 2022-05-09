@@ -1,0 +1,1126 @@
+2022-05-07 21:37:02,895 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-07 21:37:51,107 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-07 21:40:15,240 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.disneyproject:DisneyProject:0.0.1-SNAPSHOT @ C:\Users\Lucho\Documents\DisneyProject\DisneyProject\pom.xml.
+2022-05-07 21:40:19,764 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DisneyProject/src/main/java
+2022-05-07 21:40:19,769 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DisneyProject/src/main/resources
+2022-05-07 21:40:19,785 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DisneyProject/src/main/resources
+2022-05-07 21:40:19,807 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DisneyProject/src/test/java
+2022-05-07 21:40:23,964 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2022-05-07 21:40:23,980 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-05-07 21:40:25,869 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.disneyproject:DisneyProject:0.0.1-SNAPSHOT @ C:\Users\Lucho\Documents\DisneyProject\DisneyProject\pom.xml.
+2022-05-07 21:40:28,172 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DisneyProject/src/main/java
+2022-05-07 21:40:28,173 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DisneyProject/src/main/resources
+2022-05-07 21:40:28,175 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DisneyProject/src/main/resources
+2022-05-07 21:40:28,176 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DisneyProject/src/test/java
+2022-05-07 21:40:29,258 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2022-05-07 21:40:31,615 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:40:31,620 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:40:31,657 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 21:40:31,701 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 21:40:31,710 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:40:31,710 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:40:31,710 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 21:45:33,915 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:45:33,915 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:45:33,920 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 21:45:33,983 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 21:45:33,991 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:45:33,992 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:45:33,992 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 21:48:02,813 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:48:02,816 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:48:02,822 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 21:48:02,840 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 21:48:02,845 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:48:02,845 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:48:02,845 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 21:49:51,062 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:49:51,062 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:49:51,065 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 21:49:51,078 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 21:49:51,083 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:49:51,084 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:49:51,084 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 21:50:35,410 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:50:35,412 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:50:35,417 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 21:50:35,490 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 21:50:35,500 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:50:35,501 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:50:35,501 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 21:51:19,137 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:51:19,137 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:51:19,140 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 21:51:19,153 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 21:51:19,157 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:51:19,158 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:51:19,159 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 21:52:04,659 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:52:04,659 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:52:04,662 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 21:52:04,672 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 21:52:04,678 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:52:04,678 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:52:04,678 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 21:52:14,965 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:52:14,965 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:52:14,967 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 21:52:15,027 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 21:52:15,037 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:52:15,037 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:52:15,037 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 21:53:28,217 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:53:28,218 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:53:28,218 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 21:53:28,219 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 21:53:28,223 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 21:53:28,223 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 21:53:28,223 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 21:58:06,282 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-07 22:00:52,330 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-07 22:02:12,228 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:02:12,231 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:02:12,238 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 22:02:12,319 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 22:02:12,340 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:02:12,340 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:02:12,340 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 22:12:18,983 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:12:18,984 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:12:18,987 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 22:12:18,993 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 22:12:19,007 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:12:19,007 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:12:19,007 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 22:14:28,833 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:14:28,833 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:14:28,842 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 22:14:28,893 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 22:14:28,903 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:14:28,903 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:14:28,904 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 22:14:29,962 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:14:29,962 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:14:29,963 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 22:14:29,964 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 22:14:29,968 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:14:29,968 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:14:29,969 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 22:24:06,762 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:24:06,762 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:24:06,763 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 22:24:06,765 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 22:24:06,778 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:24:06,779 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:24:06,781 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 22:25:05,246 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:25:05,247 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:25:05,247 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 22:25:05,248 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 22:25:05,254 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:25:05,255 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:25:05,255 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 22:25:25,406 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:25:25,406 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:25:25,407 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 22:25:25,408 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 22:25:25,416 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:25:25,416 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:25:25,416 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 22:28:25,866 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:28:25,866 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:28:25,867 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 22:28:25,867 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 22:28:25,876 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:28:25,877 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:28:25,877 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 22:29:07,880 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:29:07,880 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:29:07,883 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 22:29:07,894 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-07 22:29:07,907 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:29:07,908 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:29:07,908 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 22:30:39,916 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:30:39,916 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:30:39,917 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 22:30:39,918 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 22:30:39,926 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:30:39,927 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:30:39,927 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 22:30:41,018 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:30:41,018 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:30:41,018 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 22:30:41,019 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 22:30:41,021 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:30:41,021 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:30:41,021 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 22:33:38,217 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:33:38,218 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:33:38,221 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 22:33:38,230 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-07 22:33:38,236 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:33:38,236 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:33:38,236 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 22:34:32,201 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:34:32,202 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:34:32,204 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 22:34:32,214 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-07 22:34:32,219 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:34:32,219 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:34:32,220 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 22:35:21,887 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:35:21,887 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:35:21,887 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 22:35:21,887 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 22:35:21,900 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:35:21,900 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:35:21,900 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 22:35:29,640 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:35:29,641 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:35:29,641 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 22:35:29,642 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 22:35:29,654 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:35:29,654 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:35:29,654 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 22:35:30,701 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:35:30,701 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:35:30,702 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 22:35:30,702 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 22:35:30,706 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:35:30,706 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:35:30,706 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 22:35:37,725 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:35:37,725 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:35:37,728 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 22:35:37,742 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-07 22:35:37,747 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 22:35:37,748 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 22:35:37,748 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 23:05:23,566 [Worker-25: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:05:23,567 [Worker-25: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:05:23,570 [Worker-25: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 23:05:23,583 [Worker-25: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-07 23:05:23,591 [Worker-25: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:05:23,591 [Worker-25: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:05:23,591 [Worker-25: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 23:07:24,916 [Worker-27: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:07:24,916 [Worker-27: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:07:24,920 [Worker-27: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 23:07:24,932 [Worker-27: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-07 23:07:24,936 [Worker-27: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:07:24,937 [Worker-27: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:07:24,937 [Worker-27: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 23:07:43,776 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:07:43,777 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:07:43,780 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 23:07:43,804 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-07 23:07:43,809 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:07:43,809 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:07:43,810 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 23:08:33,619 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:08:33,620 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:08:33,620 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 23:08:33,621 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 23:08:33,631 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:08:33,633 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:08:33,633 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 23:08:41,374 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:08:41,374 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:08:41,375 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 23:08:41,376 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 23:08:41,388 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:08:41,388 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:08:41,388 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 23:08:42,429 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:08:42,429 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:08:42,430 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 23:08:42,430 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 23:08:42,432 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:08:42,433 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:08:42,433 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 23:08:49,603 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:08:49,603 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:08:49,606 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 23:08:49,621 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-07 23:08:49,626 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:08:49,626 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:08:49,626 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 23:13:28,663 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:13:28,663 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:13:28,663 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 23:13:28,664 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-07 23:13:28,675 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:13:28,675 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:13:28,676 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-07 23:14:30,889 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:14:30,890 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:14:30,891 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 23:14:30,891 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-07 23:14:30,905 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 23:14:30,905 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 23:14:30,905 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 08:17:11,467 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:17:11,468 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:17:11,471 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 08:17:11,487 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 08:17:11,492 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:17:11,492 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:17:11,492 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 08:17:32,625 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:17:32,625 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:17:32,628 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 08:17:32,638 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 08:17:32,643 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:17:32,643 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:17:32,643 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 08:31:38,085 [Worker-37: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:31:38,086 [Worker-37: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:31:38,088 [Worker-37: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 08:31:38,098 [Worker-37: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 08:31:38,128 [Worker-37: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:31:38,129 [Worker-37: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:31:38,129 [Worker-37: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 08:33:54,149 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:33:54,150 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:33:54,153 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 08:33:54,253 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 08:33:54,299 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:33:54,300 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:33:54,300 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 08:34:14,424 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:34:14,425 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:34:14,427 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 08:34:14,436 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 08:34:14,441 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:34:14,442 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:34:14,442 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 08:39:37,678 [Worker-39: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:39:37,679 [Worker-39: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:39:37,682 [Worker-39: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 08:39:37,691 [Worker-39: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 08:39:37,695 [Worker-39: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:39:37,695 [Worker-39: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:39:37,698 [Worker-39: Launching DisneyProject - DisneyProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 08:52:28,175 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:52:28,176 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:52:28,178 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 08:52:28,189 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 08:52:28,193 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:52:28,194 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:52:28,194 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 08:56:03,423 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:56:03,424 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:56:03,426 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 08:56:03,436 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 08:56:03,442 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:56:03,443 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:56:03,443 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 08:56:18,427 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:56:18,428 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:56:18,431 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 08:56:18,440 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 08:56:18,444 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 08:56:18,444 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 08:56:18,445 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 09:04:05,418 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:04:05,420 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:04:05,421 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 09:04:05,436 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 09:04:05,442 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:04:05,442 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:04:05,443 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 09:40:13,821 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:40:13,822 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:40:13,824 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 09:40:13,841 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 09:40:13,846 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:40:13,847 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:40:13,847 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 09:40:55,062 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:40:55,063 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:40:55,066 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 09:40:55,088 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 09:40:55,114 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:40:55,114 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:40:55,114 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 09:45:40,495 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:45:40,495 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:45:40,498 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 09:45:40,507 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 09:45:40,512 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:45:40,512 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:45:40,513 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 09:48:08,488 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:48:08,488 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:48:08,491 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 09:48:08,525 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 09:48:08,530 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:48:08,530 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:48:08,530 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 09:48:35,232 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:48:35,232 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:48:35,235 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 09:48:35,248 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 09:48:35,253 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:48:35,253 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:48:35,254 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 09:52:00,469 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:52:00,470 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:52:00,472 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 09:52:00,481 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 09:52:00,487 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:52:00,487 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:52:00,487 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 09:52:38,285 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:52:38,286 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:52:38,289 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 09:52:38,298 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 09:52:38,304 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:52:38,304 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:52:38,304 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 09:58:17,015 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:58:17,015 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:58:17,018 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 09:58:17,028 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 09:58:17,033 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:58:17,033 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:58:17,033 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 09:59:52,145 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:59:52,146 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:59:52,148 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 09:59:52,160 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 09:59:52,182 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 09:59:52,182 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 09:59:52,182 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:03:09,029 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:03:09,030 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:03:09,036 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:03:09,048 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:03:09,054 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:03:09,054 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:03:09,054 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:03:19,889 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:03:19,890 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:03:19,892 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:03:19,904 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:03:19,909 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:03:19,909 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:03:19,910 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:03:51,053 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:03:51,053 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:03:51,056 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:03:51,068 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:03:51,073 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:03:51,074 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:03:51,074 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:05:05,019 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:05:05,020 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:05:05,023 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:05:05,032 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:05:05,038 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:05:05,038 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:05:05,038 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:06:35,894 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:06:35,895 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:06:35,898 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:06:35,926 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:06:35,933 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:06:35,933 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:06:35,933 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:09:32,979 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:09:32,979 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:09:32,982 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:09:32,992 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:09:32,997 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:09:32,997 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:09:32,997 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:11:47,762 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:11:47,762 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:11:47,765 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:11:47,777 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:11:47,783 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:11:47,783 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:11:47,784 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:16:32,539 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:16:32,539 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:16:32,542 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:16:32,551 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:16:32,555 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:16:32,555 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:16:32,555 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:17:37,054 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:17:37,055 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:17:37,057 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:17:37,067 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:17:37,072 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:17:37,072 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:17:37,072 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:19:32,482 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:19:32,483 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:19:32,486 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:19:32,496 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:19:32,501 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:19:32,502 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:19:32,502 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:23:33,965 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:23:33,966 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:23:33,969 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:23:33,978 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:23:33,982 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:23:33,983 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:23:33,983 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:25:35,277 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:25:35,277 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:25:35,280 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:25:35,288 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:25:35,293 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:25:35,293 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:25:35,293 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:35:34,718 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-08 10:36:50,407 [Worker-8: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:36:50,411 [Worker-8: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:36:50,420 [Worker-8: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:36:50,466 [Worker-8: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:36:50,476 [Worker-8: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:36:50,476 [Worker-8: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:36:50,477 [Worker-8: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:37:43,423 [Worker-6: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:37:43,424 [Worker-6: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:37:43,431 [Worker-6: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:37:43,462 [Worker-6: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:37:43,468 [Worker-6: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:37:43,469 [Worker-6: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:37:43,469 [Worker-6: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:38:13,591 [Worker-11: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:38:13,591 [Worker-11: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:38:13,594 [Worker-11: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:38:13,605 [Worker-11: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:38:13,620 [Worker-11: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:38:13,620 [Worker-11: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:38:13,620 [Worker-11: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:43:28,225 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:43:28,225 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:43:28,228 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:43:28,257 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:43:28,263 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:43:28,264 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:43:28,264 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:43:58,199 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:43:58,200 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:43:58,203 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:43:58,251 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:43:58,257 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:43:58,257 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:43:58,258 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:46:46,252 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:46:46,253 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:46:46,257 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:46:46,276 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:46:46,309 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:46:46,309 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:46:46,309 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:47:06,853 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:47:06,853 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:47:06,856 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:47:06,867 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:47:06,873 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:47:06,873 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:47:06,874 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:47:59,357 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:47:59,358 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:47:59,361 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:47:59,373 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:47:59,386 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:47:59,386 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:47:59,387 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:49:06,525 [Worker-16: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:49:06,526 [Worker-16: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:49:06,528 [Worker-16: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:49:06,538 [Worker-16: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:49:06,543 [Worker-16: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:49:06,543 [Worker-16: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:49:06,544 [Worker-16: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 10:53:27,628 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:53:27,629 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:53:27,632 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 10:53:27,642 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 10:53:27,648 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 10:53:27,648 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 10:53:27,648 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 11:41:30,929 [Worker-21: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 11:41:30,930 [Worker-21: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 11:41:30,933 [Worker-21: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 11:41:30,947 [Worker-21: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 11:41:30,953 [Worker-21: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 11:41:30,953 [Worker-21: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 11:41:30,953 [Worker-21: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 11:43:33,494 [Worker-20: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 11:43:33,495 [Worker-20: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 11:43:33,497 [Worker-20: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 11:43:33,508 [Worker-20: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 11:43:33,513 [Worker-20: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 11:43:33,513 [Worker-20: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 11:43:33,514 [Worker-20: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 11:47:26,589 [Worker-30: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 11:47:26,589 [Worker-30: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 11:47:26,592 [Worker-30: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 11:47:26,645 [Worker-30: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 11:47:26,652 [Worker-30: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 11:47:26,652 [Worker-30: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 11:47:26,652 [Worker-30: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 11:48:23,496 [Worker-23: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 11:48:23,496 [Worker-23: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 11:48:23,499 [Worker-23: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 11:48:23,576 [Worker-23: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 11:48:23,582 [Worker-23: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 11:48:23,582 [Worker-23: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 11:48:23,582 [Worker-23: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 11:48:30,593 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 11:48:30,593 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 11:48:30,596 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 11:48:30,659 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 11:48:30,667 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 11:48:30,667 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 11:48:30,667 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 11:53:47,326 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 11:53:47,326 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 11:53:47,329 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 11:53:47,342 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 11:53:47,349 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 11:53:47,350 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 11:53:47,350 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 11:53:59,690 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 11:53:59,690 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 11:53:59,693 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 11:53:59,707 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 11:53:59,715 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 11:53:59,715 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 11:53:59,715 [Worker-31: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 11:59:47,127 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 11:59:47,128 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 11:59:47,132 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 11:59:47,142 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 11:59:47,148 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 11:59:47,148 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 11:59:47,149 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 12:00:37,536 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 12:00:37,536 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 12:00:37,539 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 12:00:37,551 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 12:00:37,555 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 12:00:37,555 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 12:00:37,556 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 12:12:49,495 [Worker-37: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 12:12:49,495 [Worker-37: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 12:12:49,499 [Worker-37: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 12:12:49,511 [Worker-37: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 12:12:49,516 [Worker-37: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 12:12:49,516 [Worker-37: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 12:12:49,517 [Worker-37: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 12:16:01,236 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-08 12:47:29,954 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 12:47:29,955 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 12:47:29,963 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 12:47:30,003 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 12:47:30,010 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 12:47:30,010 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 12:47:30,011 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 12:47:43,321 [Worker-12: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 12:47:43,321 [Worker-12: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 12:47:43,328 [Worker-12: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 12:47:43,375 [Worker-12: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 12:47:43,383 [Worker-12: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 12:47:43,383 [Worker-12: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 12:47:43,384 [Worker-12: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 12:48:21,597 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 12:48:21,597 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 12:48:21,603 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 12:48:21,650 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 12:48:21,656 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 12:48:21,656 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 12:48:21,656 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 12:48:54,265 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 12:48:54,266 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 12:48:54,271 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 12:48:54,297 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 12:48:54,305 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 12:48:54,305 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 12:48:54,306 [Worker-13: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 12:49:16,411 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 12:49:16,411 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 12:49:16,417 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 12:49:16,427 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 12:49:16,433 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 12:49:16,433 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 12:49:16,433 [Worker-5: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:02:17,162 [Worker-19: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:02:17,162 [Worker-19: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:02:17,166 [Worker-19: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 19:02:17,181 [Worker-19: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 19:02:17,185 [Worker-19: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:02:17,185 [Worker-19: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:02:17,185 [Worker-19: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:05:17,857 [Worker-20: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:05:17,858 [Worker-20: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:05:17,860 [Worker-20: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 19:05:17,931 [Worker-20: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 19:05:17,970 [Worker-20: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:05:17,971 [Worker-20: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:05:17,971 [Worker-20: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:07:30,575 [Worker-21: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:07:30,576 [Worker-21: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:07:30,579 [Worker-21: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 19:07:30,591 [Worker-21: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 19:07:30,598 [Worker-21: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:07:30,598 [Worker-21: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:07:30,599 [Worker-21: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:15:57,794 [Worker-22: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:15:57,794 [Worker-22: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:15:57,798 [Worker-22: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 19:15:57,811 [Worker-22: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 19:15:57,818 [Worker-22: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:15:57,819 [Worker-22: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:15:57,819 [Worker-22: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:19:33,043 [Worker-28: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:19:33,043 [Worker-28: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:19:33,046 [Worker-28: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 19:19:33,056 [Worker-28: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 19:19:33,062 [Worker-28: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:19:33,062 [Worker-28: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:19:33,062 [Worker-28: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:24:46,553 [Worker-22: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:24:46,554 [Worker-22: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:24:46,557 [Worker-22: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 19:24:46,568 [Worker-22: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 19:24:46,573 [Worker-22: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:24:46,573 [Worker-22: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:24:46,577 [Worker-22: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:37:20,984 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:37:20,984 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:37:20,988 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 19:37:21,004 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 19:37:21,012 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:37:21,012 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:37:21,012 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:40:16,269 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:40:16,270 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:40:16,272 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 19:40:16,283 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-08 19:40:16,291 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:40:16,291 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:40:16,292 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:41:04,445 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:41:04,446 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:41:04,473 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 19:41:04,474 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 19:41:04,479 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:41:04,480 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:41:04,480 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:41:41,453 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:41:41,453 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:41:41,454 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 19:41:41,454 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 19:41:41,457 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:41:41,457 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:41:41,457 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:42:18,493 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:42:18,494 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:42:18,495 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 19:42:18,496 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 19:42:18,509 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:42:18,509 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:42:18,510 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:42:35,027 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:42:35,028 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:42:35,029 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 19:42:35,030 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 19:42:35,034 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:42:35,034 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:42:35,034 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:43:30,860 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:43:30,860 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:43:30,861 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 19:43:30,862 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 19:43:30,869 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:43:30,870 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:43:30,870 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:46:28,648 [Worker-39: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:46:28,649 [Worker-39: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:46:28,652 [Worker-39: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 19:46:28,661 [Worker-39: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-05-08 19:46:28,666 [Worker-39: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:46:28,666 [Worker-39: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:46:28,666 [Worker-39: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:47:49,363 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:47:49,363 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:47:49,366 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 19:47:49,378 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-05-08 19:47:49,384 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:47:49,385 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:47:49,385 [Worker-36: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:49:21,430 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:49:21,431 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:49:21,431 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 19:49:21,432 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 19:49:21,442 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:49:21,442 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:49:21,442 [Worker-34: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 19:50:10,332 [Worker-41: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:50:10,332 [Worker-41: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:50:10,336 [Worker-41: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 19:50:10,469 [Worker-41: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-05-08 19:50:10,476 [Worker-41: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 19:50:10,476 [Worker-41: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 19:50:10,476 [Worker-41: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 20:03:26,157 [Worker-44: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:03:26,158 [Worker-44: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:03:26,161 [Worker-44: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 20:03:26,187 [Worker-44: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-05-08 20:03:26,213 [Worker-44: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:03:26,214 [Worker-44: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:03:26,215 [Worker-44: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 20:05:11,591 [Worker-47: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:05:11,592 [Worker-47: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:05:11,595 [Worker-47: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 20:05:11,608 [Worker-47: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-05-08 20:05:11,614 [Worker-47: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:05:11,614 [Worker-47: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:05:11,614 [Worker-47: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 20:05:37,941 [Worker-47: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:05:37,942 [Worker-47: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:05:37,945 [Worker-47: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 20:05:37,955 [Worker-47: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-05-08 20:05:37,960 [Worker-47: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:05:37,961 [Worker-47: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:05:37,961 [Worker-47: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 20:06:28,673 [Worker-45: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:06:28,673 [Worker-45: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:06:28,676 [Worker-45: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 20:06:28,687 [Worker-45: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-05-08 20:06:28,698 [Worker-45: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:06:28,698 [Worker-45: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:06:28,698 [Worker-45: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 20:11:38,617 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:11:38,617 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:11:38,617 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 20:11:38,617 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 20:11:38,623 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:11:38,623 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:11:38,624 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 20:12:07,651 [Worker-45: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:12:07,651 [Worker-45: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:12:07,652 [Worker-45: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 20:12:07,652 [Worker-45: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 20:12:07,659 [Worker-45: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:12:07,659 [Worker-45: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:12:07,660 [Worker-45: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 20:13:44,909 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:13:44,909 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:13:44,909 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 20:13:44,910 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 20:13:44,916 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:13:44,916 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:13:44,916 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 20:15:23,850 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:15:23,850 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:15:23,851 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 20:15:23,852 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 20:15:23,860 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:15:23,860 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:15:23,860 [Worker-43: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 20:16:30,246 [Worker-49: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:16:30,246 [Worker-49: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:16:30,247 [Worker-49: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 20:16:30,248 [Worker-49: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 20:16:30,254 [Worker-49: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:16:30,255 [Worker-49: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:16:30,255 [Worker-49: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 20:20:02,395 [Worker-50: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:20:02,395 [Worker-50: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:20:02,398 [Worker-50: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 20:20:02,409 [Worker-50: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-05-08 20:20:02,414 [Worker-50: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:20:02,415 [Worker-50: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:20:02,415 [Worker-50: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 20:34:31,268 [Worker-52: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:34:31,269 [Worker-52: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:34:31,272 [Worker-52: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 20:34:31,283 [Worker-52: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-05-08 20:34:31,292 [Worker-52: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:34:31,292 [Worker-52: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:34:31,292 [Worker-52: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 20:34:53,358 [Worker-53: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:34:53,358 [Worker-53: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:34:53,362 [Worker-53: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 20:34:53,373 [Worker-53: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-05-08 20:34:53,379 [Worker-53: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:34:53,379 [Worker-53: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:34:53,379 [Worker-53: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 20:46:28,575 [Worker-52: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:46:28,575 [Worker-52: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:46:28,578 [Worker-52: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 20:46:28,588 [Worker-52: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-05-08 20:46:28,593 [Worker-52: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:46:28,593 [Worker-52: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:46:28,594 [Worker-52: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 20:49:04,626 [Worker-49: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:49:04,626 [Worker-49: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:49:04,630 [Worker-49: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 20:49:04,640 [Worker-49: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-05-08 20:49:04,645 [Worker-49: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:49:04,645 [Worker-49: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:49:04,646 [Worker-49: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 20:55:13,876 [Worker-55: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:55:13,876 [Worker-55: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:55:13,879 [Worker-55: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 20:55:13,890 [Worker-55: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-05-08 20:55:13,901 [Worker-55: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 20:55:13,902 [Worker-55: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 20:55:13,902 [Worker-55: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 21:07:17,207 [Worker-54: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:07:17,207 [Worker-54: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:07:17,210 [Worker-54: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:07:17,222 [Worker-54: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-05-08 21:07:17,228 [Worker-54: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:07:17,228 [Worker-54: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:07:17,228 [Worker-54: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\DisneyProject\src\test\resources
+2022-05-08 21:14:45,008 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apidocker:ApiDocker:0.0.1-SNAPSHOT @ C:\Users\Lucho\Documents\DisneyProject\ApiDocker\pom.xml.
+2022-05-08 21:14:46,346 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.6.7/spring-boot-starter-actuator-2.6.7.pom
+2022-05-08 21:14:46,677 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.6.7/spring-boot-starter-actuator-2.6.7.pom
+2022-05-08 21:14:47,440 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.6.7/spring-boot-actuator-autoconfigure-2.6.7.pom
+2022-05-08 21:14:47,669 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.6.7/spring-boot-actuator-autoconfigure-2.6.7.pom
+2022-05-08 21:14:47,874 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.6.7/spring-boot-actuator-2.6.7.pom
+2022-05-08 21:14:48,117 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.6.7/spring-boot-actuator-2.6.7.pom
+2022-05-08 21:14:48,468 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.8.5/micrometer-core-1.8.5.pom
+2022-05-08 21:14:48,688 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.8.5/micrometer-core-1.8.5.pom
+2022-05-08 21:14:48,870 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hdrhistogram/HdrHistogram/2.1.12/HdrHistogram-2.1.12.pom
+2022-05-08 21:14:49,108 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hdrhistogram/HdrHistogram/2.1.12/HdrHistogram-2.1.12.pom
+2022-05-08 21:14:51,380 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.6.7/spring-boot-actuator-autoconfigure-2.6.7.jar
+2022-05-08 21:14:51,556 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hdrhistogram/HdrHistogram/2.1.12/HdrHistogram-2.1.12.jar
+2022-05-08 21:14:51,557 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.6.7/spring-boot-starter-actuator-2.6.7.jar
+2022-05-08 21:14:51,559 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.6.7/spring-boot-actuator-2.6.7.jar
+2022-05-08 21:14:51,558 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.8.5/micrometer-core-1.8.5.jar
+2022-05-08 21:14:52,377 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.6.7/spring-boot-starter-actuator-2.6.7.jar
+2022-05-08 21:14:53,395 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hdrhistogram/HdrHistogram/2.1.12/HdrHistogram-2.1.12.jar
+2022-05-08 21:14:53,612 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.6.7/spring-boot-actuator-autoconfigure-2.6.7.jar
+2022-05-08 21:14:53,767 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.8.5/micrometer-core-1.8.5.jar
+2022-05-08 21:14:53,946 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.6.7/spring-boot-actuator-2.6.7.jar
+2022-05-08 21:14:55,813 [Worker-57: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiDocker/src/main/java
+2022-05-08 21:14:55,814 [Worker-57: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiDocker/src/main/resources
+2022-05-08 21:14:55,822 [Worker-57: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiDocker/src/main/resources
+2022-05-08 21:14:55,837 [Worker-57: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiDocker/src/test/java
+2022-05-08 21:14:57,213 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 14 sec
+2022-05-08 21:14:57,220 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-05-08 21:14:57,771 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.6.7/spring-boot-starter-actuator-2.6.7-sources.jar
+2022-05-08 21:14:57,975 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apidocker:ApiDocker:0.0.1-SNAPSHOT @ C:\Users\Lucho\Documents\DisneyProject\ApiDocker\pom.xml.
+2022-05-08 21:14:58,087 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.6.7/spring-boot-starter-actuator-2.6.7-sources.jar
+2022-05-08 21:14:58,263 [Worker-58: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-actuator:2.6.7
+2022-05-08 21:14:59,737 [Worker-57: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiDocker/src/main/java
+2022-05-08 21:14:59,738 [Worker-57: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiDocker/src/main/resources
+2022-05-08 21:14:59,738 [Worker-57: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiDocker/src/main/resources
+2022-05-08 21:14:59,739 [Worker-57: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiDocker/src/test/java
+2022-05-08 21:14:59,880 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.6.7/spring-boot-actuator-autoconfigure-2.6.7-sources.jar
+2022-05-08 21:15:01,243 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-05-08 21:15:02,146 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.6.7/spring-boot-actuator-autoconfigure-2.6.7-sources.jar
+2022-05-08 21:15:02,404 [Worker-59: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:15:02,405 [Worker-59: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:15:02,405 [Worker-59: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:15:02,411 [Worker-59: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:15:02,414 [Worker-59: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:15:02,414 [Worker-59: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:15:02,414 [Worker-59: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:15:02,543 [Worker-58: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-actuator-autoconfigure:2.6.7
+2022-05-08 21:15:03,220 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.6.7/spring-boot-actuator-2.6.7-sources.jar
+2022-05-08 21:15:04,202 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.6.7/spring-boot-actuator-2.6.7-sources.jar
+2022-05-08 21:15:04,323 [Worker-58: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-actuator:2.6.7
+2022-05-08 21:15:04,971 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.8.5/micrometer-core-1.8.5-sources.jar
+2022-05-08 21:15:05,914 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.8.5/micrometer-core-1.8.5-sources.jar
+2022-05-08 21:15:06,031 [Worker-58: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-core:1.8.5
+2022-05-08 21:15:06,679 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hdrhistogram/HdrHistogram/2.1.12/HdrHistogram-2.1.12-sources.jar
+2022-05-08 21:15:07,262 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hdrhistogram/HdrHistogram/2.1.12/HdrHistogram-2.1.12-sources.jar
+2022-05-08 21:15:07,392 [Worker-58: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hdrhistogram:HdrHistogram:2.1.12
+2022-05-08 21:15:08,032 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/latencyutils/LatencyUtils/2.0.3/LatencyUtils-2.0.3-sources.jar
+2022-05-08 21:15:08,396 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/latencyutils/LatencyUtils/2.0.3/LatencyUtils-2.0.3-sources.jar
+2022-05-08 21:15:08,669 [Worker-58: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.latencyutils:LatencyUtils:2.0.3
+2022-05-08 21:15:09,423 [Worker-59: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:15:09,424 [Worker-59: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:15:09,424 [Worker-59: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:15:09,426 [Worker-59: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:15:09,430 [Worker-59: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:15:09,431 [Worker-59: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:15:09,432 [Worker-59: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:17:54,368 [ForkJoinPool.commonPool-worker-55] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 16: file:/C:/Program Files/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-05-08 21:21:41,401 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:21:41,401 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:21:41,403 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:21:41,413 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:21:41,416 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:21:41,416 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:21:41,416 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:21:50,277 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:21:50,278 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:21:50,280 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:21:50,291 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:21:50,293 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:21:50,294 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:21:50,294 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:22:01,567 [Worker-64: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:22:01,567 [Worker-64: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:22:01,569 [Worker-64: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:22:01,581 [Worker-64: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:22:01,584 [Worker-64: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:22:01,584 [Worker-64: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:22:01,585 [Worker-64: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:22:16,614 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:22:16,614 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:22:16,616 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:22:16,703 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:22:16,707 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:22:16,707 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:22:16,708 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:22:29,453 [Worker-64: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:22:29,454 [Worker-64: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:22:29,455 [Worker-64: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:22:29,472 [Worker-64: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:22:29,476 [Worker-64: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:22:29,476 [Worker-64: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:22:29,476 [Worker-64: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:22:46,436 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:22:46,436 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:22:46,440 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:22:46,448 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:22:46,451 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:22:46,451 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:22:46,451 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:22:57,755 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:22:57,755 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:22:57,759 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:22:57,768 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:22:57,771 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:22:57,771 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:22:57,771 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:23:16,024 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:23:16,024 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:23:16,027 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:23:16,036 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:23:16,039 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:23:16,039 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:23:16,040 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:24:34,750 [Worker-65: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:24:34,750 [Worker-65: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:24:34,752 [Worker-65: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:24:34,763 [Worker-65: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:24:34,767 [Worker-65: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:24:34,767 [Worker-65: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:24:34,767 [Worker-65: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:25:24,788 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:25:24,789 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:25:24,791 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:25:24,804 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:25:24,808 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:25:24,808 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:25:24,808 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:27:29,395 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:27:29,395 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:27:29,397 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:27:29,405 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:27:29,408 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:27:29,408 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:27:29,408 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:28:49,330 [Worker-58: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:28:49,331 [Worker-58: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:28:49,333 [Worker-58: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:28:49,341 [Worker-58: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:28:49,344 [Worker-58: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:28:49,344 [Worker-58: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:28:49,345 [Worker-58: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:30:01,196 [Worker-58: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:30:01,196 [Worker-58: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:30:01,198 [Worker-58: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:30:01,207 [Worker-58: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:30:01,210 [Worker-58: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:30:01,210 [Worker-58: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:30:01,210 [Worker-58: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:30:47,335 [Worker-65: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:30:47,335 [Worker-65: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:30:47,337 [Worker-65: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:30:47,349 [Worker-65: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:30:47,352 [Worker-65: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:30:47,352 [Worker-65: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:30:47,353 [Worker-65: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:31:31,661 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:31:31,662 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:31:31,663 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:31:31,671 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:31:31,674 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:31:31,674 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:31:31,675 [Worker-62: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:32:43,477 [Worker-63: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:32:43,477 [Worker-63: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:32:43,479 [Worker-63: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:32:43,505 [Worker-63: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:32:43,508 [Worker-63: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:32:43,508 [Worker-63: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:32:43,508 [Worker-63: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:38:17,045 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:38:17,045 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:38:17,047 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:38:17,093 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:38:17,095 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:38:17,095 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:38:17,095 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 21:39:38,771 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:39:38,771 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:39:38,773 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-08 21:39:38,783 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-08 21:39:38,786 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 21:39:38,786 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 21:39:38,786 [Worker-33: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources
+2022-05-08 23:47:26,533 [Worker-69: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 23:47:26,535 [Worker-69: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 23:47:26,536 [Worker-69: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\main\resources
+2022-05-08 23:47:26,536 [Worker-69: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\main\resources
+2022-05-08 23:47:26,541 [Worker-69: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-08 23:47:26,542 [Worker-69: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-08 23:47:26,542 [Worker-69: Construcción] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lucho\Documents\DisneyProject\ApiDocker\src\test\resources

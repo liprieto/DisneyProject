@@ -1,0 +1,5 @@
+package com.disneyproject.service;
+
+public interface IPeliculasService {
+
+}

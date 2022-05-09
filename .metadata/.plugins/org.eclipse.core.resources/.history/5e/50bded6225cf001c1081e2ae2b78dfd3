@@ -1,0 +1,19 @@
+package com.disneyproject.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import com.disneyproject.entity.Peliculas;
+
+@Controller
+public class CreateController {
+	
+	@GetMapping("/create")
+	public String createPage(Model model) {
+		//constructorVacio
+		model.addAttribute("pelicula", new Peliculas());
+		return "users/create";
+	}
+
+}

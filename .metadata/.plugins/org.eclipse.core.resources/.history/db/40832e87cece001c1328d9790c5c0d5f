@@ -1,0 +1,14 @@
+package com.disneyproject.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import com.disneyproject.entity.Peliculas;
+
+//Operations CRUD Database
+@Repository
+public interface IPeliculas extends JpaRepository <Peliculas, Long>{
+
+}
+
+

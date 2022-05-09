@@ -1,0 +1,18 @@
+package com.disneyproject.service.implement;
+
+import org.springframework.stereotype.Service;
+
+import com.disneyproject.entity.Peliculas;
+import com.disneyproject.service.IPeliculasService;
+
+@Service
+public class PeliculasImplement implements IPeliculasService{
+	
+	
+	@Override
+	public void guardar(Peliculas peliculas) {
+		
+		
+	}
+
+}

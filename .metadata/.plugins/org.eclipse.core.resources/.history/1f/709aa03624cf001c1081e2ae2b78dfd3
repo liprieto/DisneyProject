@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org" >
+<head>
+<meta charset="utf_8"/>
+<title>Carga de peliculas</title>
+</head>
+<body>
+	
+	<h1>Carga de peliculas</h1>
+	
+</body>
+</html>

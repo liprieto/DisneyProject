@@ -1,0 +1,5 @@
+package com.apidocker.service;
+
+public interface IUserService {
+
+}

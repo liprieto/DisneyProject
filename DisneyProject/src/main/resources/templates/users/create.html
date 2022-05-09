@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org" >
+<head>
+<meta charset="utf_8"/>
+<title>Carga de peliculas</title>
+</head>
+<body>
+	
+	<h1>Carga de peliculas</h1>
+
+	<form th:action=@{/users/guardar-pelicula} th:object="${peliculas}" method="POST" enctype="multipart/form-data)">
+		<div class="mb-3">
+			<label for="exampleInputEmail1" class="form-label">Título</label> <input type="text" class="form-control">
+		</div>
+		<div class="mb-3">
+			<label for="exampleInputPassword1" class="form-label">Fecha de estreno</label>
+			<input type="date" class="form-control">
+		</div>
+		<div class="mb-3">
+			<label for="exampleInputPassword1" class="form-label">Portada</label>
+			<input type="file" class="form-control">
+		</div>
+		
+		
+		<button type="submit" class="btn btn-primary">Guardar</button>
+	</form>
+
+</body>
+</html>

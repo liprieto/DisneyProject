@@ -1,0 +1,23 @@
+package com.disneyproject.service.implement;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.disneyproject.entity.Peliculas;
+import com.disneyproject.repository.IPeliculas;
+import com.disneyproject.service.IPeliculasService;
+
+@Service
+public class PeliculasImplement implements IPeliculasService{
+	
+	@Autowired
+	private IPeliculas peliculas;
+	
+	@Override
+	public void guardar(Peliculas peliculas) {
+		IPeliculas.guardar(peliculas);
+		
+		
+	}
+
+}

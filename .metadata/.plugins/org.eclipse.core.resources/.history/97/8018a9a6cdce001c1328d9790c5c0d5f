@@ -1,0 +1,5 @@
+package com.disneyproject.interfaceDAO;
+
+public interface IPeliculas {
+
+}

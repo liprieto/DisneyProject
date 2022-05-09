@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+<head th:replace="views/index ::head"></head>
+
+
+<body>
+	<nav th:replace="views/index :: navigation bar"></nav>
+	<h1 class="text-center mt-3">DISNEY PROJECT</h1>
+</body>
+
+</html>
